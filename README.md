@@ -1,5 +1,6 @@
 BUG when Run: /usr/share/elasticsearch/bin/elasticsearch-plugin remove x-pack
 
+https://github.com/elastic/elasticsearch-docker/issues/36
 
 ```
 
