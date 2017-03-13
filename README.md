@@ -1,4 +1,9 @@
-BUG: /usr/share/elasticsearch/bin/elasticsearch-plugin remove x-pack
+BUG when Run: /usr/share/elasticsearch/bin/elasticsearch-plugin remove x-pack
+
+Related Issues:
+- https://github.com/docker-library/elasticsearch/issues/156
+- https://github.com/docker-library/elasticsearch/issues/141
+
 
 # Example of use the elasticsearch with Docker
 
