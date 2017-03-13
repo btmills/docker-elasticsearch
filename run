@@ -1,0 +1,1 @@
+docker run --rm --name elasticsearch -p 9200:9200 frekele/elasticsearch
