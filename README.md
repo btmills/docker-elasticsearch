@@ -5,7 +5,7 @@ BUG when Run: /usr/share/elasticsearch/bin/elasticsearch-plugin remove x-pack
 
 Step 5 : RUN /usr/share/elasticsearch/bin/elasticsearch-plugin remove x-pack
 
- ---> Running in 91548fc14fee
+ ---> Running in 3c08ad904d0f
 
 -> Removing x-pack...
 
@@ -22,7 +22,7 @@ Step 5 : RUN /usr/share/elasticsearch/bin/elasticsearch-plugin remove x-pack
 	at org.elasticsearch.cli.Command.main(Command.java:88)
 	at org.elasticsearch.plugins.PluginCli.main(PluginCli.java:47)
 [0m
-Removing intermediate container 91548fc14fee
+Removing intermediate container 3c08ad904d0f
 ```
 
 
