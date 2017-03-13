@@ -12,3 +12,4 @@ USER root
 RUN chown elasticsearch:elasticsearch /usr/share/elasticsearch/config/elasticsearch.yml
 
 USER elasticsearch
+
