@@ -1,4 +1,4 @@
-# Elasticsearch Server Docker Image - Extends Official Elasticsearch
+# Elasticsearch Server Docker Image - Extends Official ELK
 - Repository: https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
 - Repository Deprecated: https://hub.docker.com/r/freitasul/elasticsearch
 
